@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 1;
+    padding: 1;
+    background-image: url(https://th.bing.com/th/id/OIP.AYmD02AKn3E7PByVJ-Rg-AHaKX?w=152&h=213&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+}
+
+header {
+    background-image: url(https://th.bing.com/th/id/OIP.92YijJkH3mzwAVTVCT3LOgHaEt?rs=1&pid=ImgDetMain);
+    color: rgb(201, 163, 163);
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 7;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #dc6565;
+    text-decoration: none;
+}
+
+
+section {
+    padding: 20px;
+    margin: 25px;
+    background: #fcfbfb;
+    border-radius: 25px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-image: url(https://th.bing.com/th?id=OIP.w0KKfWe59XtA0tKAMGIcVQHaFg&w=290&h=215&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2);
+    color: #fff;
+    background-size: 100%;
+}
